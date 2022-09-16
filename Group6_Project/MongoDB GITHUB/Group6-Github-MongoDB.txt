@@ -1,0 +1,9 @@
+Github Repository URL :
+https://github.com/ViplavGadewar/group6-database-analytics-programming-project
+
+Repo clone URL : 
+https://github.com/ViplavGadewar/group6-database-analytics-programming-project.git
+
+
+MongoDB Connection String for mongoDB Compass:
+mongodb+srv://DAP:DAP@cluster0.zyfub.mongodb.net/test

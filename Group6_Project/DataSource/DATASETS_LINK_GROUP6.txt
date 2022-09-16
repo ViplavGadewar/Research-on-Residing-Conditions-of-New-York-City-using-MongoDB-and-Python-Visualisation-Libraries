@@ -1,0 +1,11 @@
+DataSet 1 : NYC Tree CENSUS
+https://data.cityofnewyork.us/resource/uvpi-gqnh.json
+
+DataSet 2 : NYC Shooting Incidents
+https://data.cityofnewyork.us/resource/833y-fsy8.json
+
+DataSet 3 : NYC Property Valuation
+https://data.cityofnewyork.us/resource/yjxr-fw8i.json
+
+DataSet 4 : NYC Property Sales
+https://data.cityofnewyork.us/resource/w2pb-icbu.json
